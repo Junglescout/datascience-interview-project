@@ -2,4 +2,4 @@
 
 ❗❗ Please, fork this repo before starting your work.
 
-See the [instructions](instructions.md) for mode details.
+See the [instructions](instructions.md) for more details.
